@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MatrixHandlingProgram.Form1">
+    <Position X="3" Y="1.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>UAIAIIAEBDoAN0BEjQCBUAACAFEgEICAAAAAILUBaCI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MatrixHandlingProgram.Arr">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAABAACAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArrayClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatrixHandlingProgram.AboutForm">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatrixHandlingProgram.Presenter">
+    <Position X="7.25" Y="1.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="MatrixHandlingProgram.Presenter.Radio">
+        <TypeIdentifier>
+          <NewMemberFileName>Presenter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAEAAABAAAIAIBAAAAAAAAAABAAAAAACAEAA=</HashCode>
+      <FileName>Presenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MatrixHandlingProgram.IView">
+    <Position X="9.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAEAAAAMQAAAQCAQAAAAAAAEAAAAAAAILEBCCA=</HashCode>
+      <FileName>IView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
